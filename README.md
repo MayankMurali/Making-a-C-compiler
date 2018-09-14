@@ -1,0 +1,2 @@
+# Making-a-C-compiler
+The aim of this project was to create a compiler capable of processing C code and converting it into Low Level Virtual Machine (LLVM) assembly code. This was achieved through the use of the LEX Lexical Analysis Package and YACC Parsing Packing on Linux to get to the optimized intermediate three address code. An assembler coded on Python was used to convert the intermediate code to the LLVM assembly.
