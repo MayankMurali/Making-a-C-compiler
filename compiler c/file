@@ -1,0 +1,6 @@
+int main(){
+
+int b = z + y ;
+int x = a + b + c ;
+
+}
